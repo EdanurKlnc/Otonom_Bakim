@@ -21,6 +21,25 @@
         <entry key="..\:/Users/LENOVA/AndroidStudioProjects/LTCYazilim/app/src/main/res/layout/activity_soru_hayir.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/LENOVA/AndroidStudioProjects/LTCYazilim/app/src/main/res/layout/activity_teknik_servis_giris.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/LENOVA/AndroidStudioProjects/LTCYazilim/app/src/main/res/layout/activity_yonetici_giris.xml" value="0.2" />
+        <entry key="..\:/Users/LENOVA/Documents/GitHub/Otonom_Bakim/LTCYazilim/app/src/main/res/drawable/arkaplan.xml" value="0.157" />
+        <entry key="..\:/Users/LENOVA/Documents/GitHub/Otonom_Bakim/LTCYazilim/app/src/main/res/drawable/arkaplanbeyaz.xml" value="0.157" />
+        <entry key="..\:/Users/LENOVA/Documents/GitHub/Otonom_Bakim/LTCYazilim/app/src/main/res/drawable/arkaplangri.xml" value="0.157" />
+        <entry key="..\:/Users/LENOVA/Documents/GitHub/Otonom_Bakim/LTCYazilim/app/src/main/res/drawable/btn_tasarim.xml" value="0.1595" />
+        <entry key="..\:/Users/LENOVA/Documents/GitHub/Otonom_Bakim/LTCYazilim/app/src/main/res/drawable/btn_yesil.xml" value="0.1595" />
+        <entry key="..\:/Users/LENOVA/Documents/GitHub/Otonom_Bakim/LTCYazilim/app/src/main/res/drawable/buton_kontrol.xml" value="0.1595" />
+        <entry key="..\:/Users/LENOVA/Documents/GitHub/Otonom_Bakim/LTCYazilim/app/src/main/res/drawable/buton_operator.xml" value="0.1595" />
+        <entry key="..\:/Users/LENOVA/Documents/GitHub/Otonom_Bakim/LTCYazilim/app/src/main/res/drawable/buton_teknik.xml" value="0.1595" />
+        <entry key="..\:/Users/LENOVA/Documents/GitHub/Otonom_Bakim/LTCYazilim/app/src/main/res/layout/activity_ilk_ekran.xml" value="0.1743659420289855" />
+        <entry key="..\:/Users/LENOVA/Documents/GitHub/Otonom_Bakim/LTCYazilim/app/src/main/res/layout/activity_kullanici_giris.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/LENOVA/Documents/GitHub/Otonom_Bakim/LTCYazilim/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/LENOVA/Documents/GitHub/Otonom_Bakim/LTCYazilim/app/src/main/res/layout/activity_operator_kontrol.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/LENOVA/Documents/GitHub/Otonom_Bakim/LTCYazilim/app/src/main/res/layout/activity_operator_soru.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/LENOVA/Documents/GitHub/Otonom_Bakim/LTCYazilim/app/src/main/res/layout/activity_qr.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/LENOVA/Documents/GitHub/Otonom_Bakim/LTCYazilim/app/src/main/res/layout/activity_qr_kontrol.xml" value="0.25" />
+        <entry key="..\:/Users/LENOVA/Documents/GitHub/Otonom_Bakim/LTCYazilim/app/src/main/res/layout/activity_scanner.xml" value="0.223731884057971" />
+        <entry key="..\:/Users/LENOVA/Documents/GitHub/Otonom_Bakim/LTCYazilim/app/src/main/res/layout/activity_soru_hayir.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/LENOVA/Documents/GitHub/Otonom_Bakim/LTCYazilim/app/src/main/res/layout/activity_teknik_servis_giris.xml" value="0.2006340579710145" />
+        <entry key="..\:/Users/LENOVA/Documents/GitHub/Otonom_Bakim/LTCYazilim/app/src/main/res/layout/activity_yonetici_giris.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>

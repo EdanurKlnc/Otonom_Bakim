@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/arkaplan"
+    android:background="@drawable/arkaplanbeyaz"
     tools:context=".operator.OperatorKontrolActivity">
 
 
@@ -16,7 +16,7 @@
         android:layout_marginTop="64dp"
         android:layout_marginEnd="32dp"
         android:layout_marginBottom="16dp"
-        android:background="@drawable/buton_kontrol"
+        android:background="@drawable/btn_gri"
         android:text="Günlük Kontrol"
         android:textColor="@color/white"
         android:textSize="25dp"
@@ -29,8 +29,7 @@
         android:id="@+id/button3"
         android:layout_width="0dp"
         android:layout_height="90dp"
-        android:background="@drawable/buton_kontrol"
-        android:backgroundTint="#FFC107"
+        android:background="@drawable/btn_turuncu"
         android:textColor="@color/white"
         android:textSize="25dp"
         android:layout_marginStart="32dp"
@@ -49,8 +48,7 @@
         android:layout_marginStart="32dp"
         android:layout_marginEnd="32dp"
         android:layout_marginBottom="16dp"
-        android:background="@drawable/buton_kontrol"
-        android:backgroundTint="#3F51B5"
+        android:background="@drawable/btn_gri"
         android:textColor="@color/white"
         android:textSize="25dp"
         android:text="Aylık Kontrol"
@@ -66,8 +64,7 @@
         android:layout_marginStart="32dp"
         android:layout_marginEnd="32dp"
         android:layout_marginBottom="16dp"
-        android:background="@drawable/buton_kontrol"
-        android:backgroundTint="#4CAF50"
+        android:background="@drawable/btn_turuncu"
         android:textColor="@color/white"
         android:textSize="25dp"
         android:text="3 Aylık Kontrol"
@@ -83,9 +80,8 @@
         android:layout_marginStart="32dp"
         android:layout_marginEnd="32dp"
         android:layout_marginBottom="64dp"
-        android:background="@drawable/buton_kontrol"
+        android:background="@drawable/btn_gri"
         android:textColor="@color/white"
-        android:backgroundTint="#8E7573"
         android:textSize="25dp"
         android:text="Yıllık Kontrol"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -104,7 +100,6 @@
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:logo="@drawable/logo"
         app:title="Otonom Bakım Sistemi" />
 
 

@@ -3,6 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     package="com.example.ltcyazilim">
 
+    <uses-permission android:name="android.permission.CAMERA" />
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -14,13 +16,16 @@
         android:theme="@style/Theme.LTCYazilim"
         tools:targetApi="31">
         <activity
-            android:name=".QrActivity"
+            android:name=".QrKontrolActivity"
             android:exported="false" />
         <activity
-            android:name=".SoruHayirActivity"
+            android:name=".operator.QrActivity"
             android:exported="false" />
         <activity
-            android:name=".OperatorSoruActivity"
+            android:name=".operator.SoruHayirActivity"
+            android:exported="false" />
+        <activity
+            android:name=".operator.OperatorSoruActivity"
             android:exported="false" />
         <activity
             android:name=".yonetici.YoneticiGirisActivity"
@@ -29,7 +34,7 @@
             android:name=".teknikservis.TeknikServisGirisActivity"
             android:exported="false" />
         <activity
-            android:name=".operator.KullaniciGirisActivity"
+            android:name=".operator.OperatorKontrolActivity"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
@@ -38,7 +43,7 @@
             android:name=".IlkEkranActivity"
             android:exported="false" />
         <activity
-            android:name=".operator.OperatorKontrolActivity"
+            android:name=".operator.KullaniciGirisActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
