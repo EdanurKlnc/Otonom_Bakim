@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/arkaplanbeyaz"
+    android:background="@drawable/arkaplangri"
     tools:context=".IlkEkranActivity">
 
     <ImageView
@@ -20,7 +20,7 @@
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/icon_new" />
+        app:srcCompat="@drawable/logo" />
 
     <Button
         android:id="@+id/button"
@@ -30,7 +30,7 @@
         android:layout_marginTop="128dp"
         android:layout_marginEnd="32dp"
         android:layout_marginBottom="8dp"
-        android:background="@drawable/btn_turuncu"
+        android:background="@drawable/buton_operator"
         android:fontFamily="@font/thinbold"
         android:text="Operatör Girişi"
         android:textAllCaps="false"
@@ -68,7 +68,7 @@
         android:layout_marginBottom="32dp"
         android:fontFamily="@font/thinbold"
         android:text="Yönetici Girişi"
-        android:background="@drawable/btn_gri"
+        android:background="@drawable/buton_yonetici"
         android:textAllCaps="false"
         android:textSize="35dp"
         android:textColor="@color/white"

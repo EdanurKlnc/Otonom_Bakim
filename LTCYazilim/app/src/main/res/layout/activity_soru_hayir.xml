@@ -18,11 +18,7 @@
         android:background="#B8B4B3"
         android:textSize="18dp"
         android:textStyle="bold"
-        android:text="------------------------------------------
-        ------------------------------------------------------------
-        ------------------------------------------------------YÖNLENDİRME YAZISI BURAYA GELECEKK ---
-        --------------------------------------------------------
-        ------------------------------------------------"
+        android:text="<------------------------------------------------------------------------------------------------------------------------------------------------------------YÖNLENDİRME YAZISI BURAYA GELECEKK ----------------------------------------------------------------------------------------------------------->"
         app:layout_constraintBottom_toTopOf="@+id/buttonYapildi"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -49,7 +45,7 @@
         android:layout_marginStart="32dp"
         android:layout_marginEnd="32dp"
         android:layout_marginBottom="64dp"
-        android:background="@drawable/btn_turuncu"
+        android:background="@drawable/buton_kontrol"
         android:text="Destek Çağır"
         android:textSize="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
